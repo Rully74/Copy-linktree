@@ -1,6 +1,6 @@
-# 👨🏻‍💻​🪄​ Perfil de enlaces sociales - Copy Linktree
+# 👨🏻‍💻​🪄​ Perfil de enlaces sociales - Copia Linktree
 
-## Descripción general
+## 📖​ Descripción general
 
 ### 📷 Captura de pantalla
 
@@ -9,11 +9,11 @@
 ### 🔗 Enlaces
 
 - URL de la solución: [GitHub](https://github.com/Rully74/Copy-linktree)
-- URL del sitio en vivo: [Sitio en vivo aquí](https://github.com/Rully74/Copy-linktree)
+- URL del sitio en vivo: [Sitio en vivo aquí](https://rully74.github.io/Copy-linktree/)
 
 ## 🔮 Mi proceso
 
-### Construido con
+### 🔧 Construido con
 
 - Marcado semántico HTML5
 - Propiedades personalizadas de CSS
