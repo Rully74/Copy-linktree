@@ -37,26 +37,29 @@ section {
 }
 
 .socialLinks img {
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     border-radius: 50%;
     object-fit: cover;
     margin: 10px 0 20px 0;
 }
 
 .socialLinks h1 {
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 6px;
+    text-align: center;
 }
 
 .socialLinks h5 {
     color: var(--Green);
+    text-align: center;
 }
 
 .socialLinks p {
     font-weight: 400;
     font-size: 14px;
     margin: 20px 0 20px 0;
+    text-align: center;
 }
 
 .links{
@@ -78,4 +81,30 @@ section {
     text-decoration: none;
     font-weight: 400;
     font-size: 15px;
+    cursor: pointer;
+}
+
+.linkButton:hover {
+    font-weight: 600;
+    font-size: 15px;
+    background-color: var(--Green);
+    color: var(--DarkGrey);
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    position: absolute;
+    bottom: 30px;
+    width: 100%;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+@media (min-width:375px){
+    .socialLinks{
+        width: 320px;
+    }
 }
