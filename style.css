@@ -88,6 +88,7 @@ section {
     font-weight: 600;
     font-size: 15px;
     background-color: var(--Green);
+    transition: background-color 0.5s;
     color: var(--DarkGrey);
 }
 
